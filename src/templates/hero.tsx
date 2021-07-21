@@ -40,7 +40,7 @@ export const Hero = ({ imagePath }: HeroProps) => {
               }}
             >
               <DefaultHeadline size="m" fontWeight="300" fontSize="70px">
-                Hallo, ich bins - die Anja!
+                Hallo, ich bins - die beste Anja!
               </DefaultHeadline>
               <DefaultText>
                 ‍‍In Kombination von emotionaler Intelligenz und systemischem
