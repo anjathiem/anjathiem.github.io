@@ -43,6 +43,10 @@ export const Hero = ({ imagePath }: HeroProps) => {
                 Hallo, ich bins - die beste Anja!
               </DefaultHeadline>
               <DefaultText>
+                Hallo Mama, guck mal Mama, was ich hier an meinem letzten
+                Arbeitstag mit Jakob mache.
+              </DefaultText>
+              <DefaultText>
                 ‍‍In Kombination von emotionaler Intelligenz und systemischem
                 Denken, schaffe ich es komplexe Projekte in der Konzeption und
                 Umsetzung sorgfältig zu begleiten - und zwar so, dass sich jede
